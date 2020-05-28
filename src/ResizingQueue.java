@@ -1,3 +1,12 @@
+/** % java ResizingQueue.java < tobe.txt
+ *
+ Note: ResizingQueue.java uses unchecked or unsafe operations.
+ Note: Recompile with -Xlint:unchecked for details.
+ to be or not to be Vot ostatki: that
+ Vot ostatki: is
+
+ */
+
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import java.util.Iterator;
